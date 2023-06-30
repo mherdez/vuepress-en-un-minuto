@@ -10,6 +10,9 @@
 
 <img :src="$withBase('/assets/vuepress-logo.png')" alt='logo de vuepress' />
 
+### [Manual](/manuales/manual.pdf)
+
+<a :href="$withBase('/manuales/manual.pdf')">Manual en PDF</a>
 
 VuePress es un generador de sitios estáticos impulsado por Vue.js, un popular framework de JavaScript. Es una herramienta diseñada específicamente para la creación de documentación técnica o sitios web con contenido estructurado.
 
