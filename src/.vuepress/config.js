@@ -1,4 +1,6 @@
 module.exports = {
+  dest: 'docs',
+  base: '/vuepress-en-un-minuto/',
   title: 'Vuepress en un minuto',
   description: "Resumen del curso de vuepress",
 
