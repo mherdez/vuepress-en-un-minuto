@@ -12,7 +12,7 @@ module.exports = {
     ],
     sidebar: [
       '/',
-      '/tema01/',
+      '/pages/tema01/',
     ]
   },
 
