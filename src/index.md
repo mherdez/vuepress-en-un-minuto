@@ -6,7 +6,10 @@
 
 <!-- <center><img src='https://res.cloudinary.com/practicaldev/image/fetch/s--4rzSWEBw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/mmyhy7vbcz9lk3u7h6z1.png' width='500px'/></center> -->
 
-![logo vuepress](/assets/vuepress-logo.png)
+<!-- ![logo vuepress](/assets/vuepress-logo.png) -->
+
+<img :src="$withBase('/assets/vuepress-logo.png')" alt='logo de vuepress' />
+
 
 VuePress es un generador de sitios estáticos impulsado por Vue.js, un popular framework de JavaScript. Es una herramienta diseñada específicamente para la creación de documentación técnica o sitios web con contenido estructurado.
 
